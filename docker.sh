@@ -1,5 +1,4 @@
 
-
 ##Install in Amazon Ubuntu
 #!/bin/bash
 sudo apt update -y
