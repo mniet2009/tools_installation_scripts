@@ -4,7 +4,6 @@
 
 
 
-
 # A Simple and Comprehensive Vulnerability Scanner for Containers and other Artifacts, Suitable for CI.
 
 sudo apt-get install wget apt-transport-https gnupg lsb-release
