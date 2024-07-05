@@ -1,4 +1,3 @@
-
 ##Install in Amazon Ubuntu#
 sudo usermod -aG docker $USER
 docker pull docker.bintray.io/jfrog/artifactory-oss:latest
